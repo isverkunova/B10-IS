@@ -1,0 +1,6 @@
+name, street, city, state, zip, cardNo
+Andrey,Gryshko,Kiev,Ukr,123,1234567812345678
+Irina,Gryshko,Kiev,Ukr,321,8765432187654321
+Max,Kingstons,London,Eng,543,8796567435467523
+Alex,Broadway,New York,USA,345,9898078756435234
+Mary,HeroivSt,Slavutich,Ukr,657,12134536784657309
