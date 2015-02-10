@@ -56,15 +56,15 @@
 					<Prp name="count" type="I" value="1"/>
 					<Prp name="enabled" type="B" value="-1"/>
 					<Prp name="filename" type="S" value="Orders.exe"/>
-					<Prp name="filepath" type="S" value="..\..\..\..\..\..\All Users\Documents\TestComplete 7 Samples\Open Apps\OrdersDemo\C#\bin\Debug\"/>
+					<Prp name="filepath" type="S" value="C:\Documents and Settings\All Users\Documents\TestComplete 7 Samples\Open Apps\OrdersDemo\C#\bin\Debug\"/>
 					<Prp name="node name" type="S" value="Orders"/>
 					<Prp name="parameters" type="S" value=""/>
-					<Prp name="userchangename" type="B" value="0"/>
+					<Prp name="userchangename" type="B" value="-1"/>
 					<Prp name="workfolder" type="S" value=""/>
 				</Node>
 				<Node name="data"/>
 				<Node name="test data"/>
-				<Prp name="key" type="S" value="{8AD3C6B7-9F6D-4CBA-A429-78D6102C4AEA}"/>
+				<Prp name="key" type="S" value="{0007309E-B86F-4E0F-B2D3-0B0EDF551DE4}"/>
 				<Prp name="type" type="S" value="{FD30A383-63C2-4C25-948C-2595C0F81320}"/>
 				<Prp name="typename" type="S" value="Tested Application"/>
 			</Node>

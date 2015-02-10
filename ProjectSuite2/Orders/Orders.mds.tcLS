@@ -21,6 +21,9 @@
 	<Node name="root">
 		<Node name="data">
 			<Node name="{310141dc-6fe4-45ff-8ab1-9bc9911ed858}">
+				<Node name="{0007309e-b86f-4e0f-b2d3-0b0edf551de4}">
+					<Prp name="filepath" type="S" value="C:\Documents and Settings\All Users\Documents\TestComplete 7 Samples\Open Apps\OrdersDemo\C#\bin\Debug\"/>
+				</Node>
 				<Node name="{8ad3c6b7-9f6d-4cba-a429-78d6102c4aea}">
 					<Prp name="filepath" type="S" value="..\..\..\..\..\..\All Users\Documents\TestComplete 7 Samples\Open Apps\OrdersDemo\C#\bin\Debug\"/>
 				</Node>
